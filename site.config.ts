@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'NCC-17039',
 
   // open graph metadata (optional)
-  description: 'NCC-17039's English Blog.',
+  description: 'NCC-17039 English Blog.',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
